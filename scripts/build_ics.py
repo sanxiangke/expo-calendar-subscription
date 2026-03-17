@@ -11,6 +11,7 @@ from pathlib import Path
 
 EXPO_BASE = "https://www.haozhanhui.com"
 SHOWSTART_BASE = "https://www.showstart.com"
+MAOYAN_BASE = "https://show.maoyan.com"
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123 Safari/537.36"
 ROOT = Path(__file__).resolve().parents[1]
 DOCS_DIR = ROOT / "docs"
@@ -225,8 +226,125 @@ def is_music_event(title: str):
     return any(k in title for k in keywords)
 
 
+def parse_maoyan_next_data(text: str):
+    marker = '__NEXT_DATA__ = '
+    start = text.find(marker)
+    if start == -1:
+        return None
+    s = text[start + len(marker):]
+    level = 0
+    in_str = False
+    escape = False
+    begin = None
+    end = None
+    for i, ch in enumerate(s):
+        if begin is None:
+            if ch == '{':
+                begin = i
+                level = 1
+            continue
+        if in_str:
+            if escape:
+                escape = False
+            elif ch == '\\':
+                escape = True
+            elif ch == '"':
+                in_str = False
+        else:
+            if ch == '"':
+                in_str = True
+            elif ch == '{':
+                level += 1
+            elif ch == '}':
+                level -= 1
+                if level == 0:
+                    end = i + 1
+                    break
+    if begin is None or end is None:
+        return None
+    try:
+        return json.loads(s[begin:end])
+    except Exception:
+        return None
+
+
+def expand_maoyan_date_range(value: str):
+    value = value.strip()
+    parts = [p.strip() for p in value.split(' - ')]
+    if len(parts) == 2:
+        left, right = parts
+        left_match = re.match(r'(\d{4})\.(\d{2})\.(\d{2})', left)
+        if left_match:
+            year = int(left_match.group(1))
+            month = int(left_match.group(2))
+            day = int(left_match.group(3))
+            start = dt.datetime(year, month, day, 19, 30)
+            if re.match(r'\d{2}\.\d{2}$', right):
+                end_month = int(right[:2])
+                end_day = int(right[3:])
+                end_dt = dt.datetime(year, end_month, end_day, 19, 30)
+            elif re.match(r'\d{4}\.\d{2}\.\d{2}$', right):
+                yy, mm, dd = map(int, right.split('.'))
+                end_dt = dt.datetime(yy, mm, dd, 19, 30)
+            else:
+                end_dt = start
+            return start, end_dt
+    m = re.match(r'(\d{4})\.(\d{2})\.(\d{2})\s+(\d{2}):(\d{2})', value)
+    if m:
+        y, mo, d, hh, mm = map(int, m.groups())
+        start = dt.datetime(y, mo, d, hh, mm)
+        return start, start
+    m = re.match(r'(\d{4})\.(\d{2})\.(\d{2})', value)
+    if m:
+        y, mo, d = map(int, m.groups())
+        start = dt.datetime(y, mo, d, 19, 30)
+        return start, start
+    return None, None
+
+
+def gather_maoyan_live_music():
+    text = fetch(MAOYAN_BASE)
+    data = parse_maoyan_next_data(text)
+    if not data:
+        return []
+    categories = data.get('props', {}).get('pageProps', {}).get('categoryList', [])
+    allowed_ids = {1, 6}  # 演唱会、音乐会
+    raw = []
+    for cat in categories:
+        if cat.get('categoryId') not in allowed_ids:
+            continue
+        for key_name in ['hotListKey', 'newListKey']:
+            list_key = cat.get(key_name)
+            for item in cat.get(list_key, []) or []:
+                title = (item.get('name') or '').strip()
+                city = (item.get('cityName') or '').strip()
+                venue = (item.get('shopName') or '').strip()
+                address = (item.get('address') or '').strip()
+                show_time = (item.get('showTimeRange') or '').strip()
+                perf_id = str(item.get('performanceId') or item.get('projectExtendVO', {}).get('projectId') or '')
+                if not title or not show_time or not perf_id:
+                    continue
+                start, end = expand_maoyan_date_range(show_time)
+                if not start:
+                    continue
+                raw.append(
+                    {
+                        'id': f"maoyan-{perf_id}",
+                        'url': urllib.parse.urljoin(MAOYAN_BASE, item.get('shareLink') or f"/pages/show/detail/index?id={perf_id}&isNewPage=true"),
+                        'title': title,
+                        'city': city,
+                        'venue': venue or address or '待补充地点',
+                        'address': address,
+                        'start': start,
+                        'end': (end + dt.timedelta(hours=3)) if end == start else (end + dt.timedelta(days=1)),
+                        'source': '猫眼',
+                    }
+                )
+    return raw
+
+
 def gather_live_music(max_pages: int = 40):
-    all_items = []
+    showstart_items = []
     seen_ids = set()
     stale_pages = 0
 
@@ -242,9 +360,9 @@ def gather_live_music(max_pages: int = 40):
 
         before = len(seen_ids)
         for item in items:
-            if item["id"] not in seen_ids:
-                seen_ids.add(item["id"])
-                all_items.append(item)
+            if item['id'] not in seen_ids:
+                seen_ids.add(item['id'])
+                showstart_items.append(item)
 
         if len(seen_ids) == before:
             stale_pages += 1
@@ -257,21 +375,49 @@ def gather_live_music(max_pages: int = 40):
     now = dt.datetime.now()
     min_dt = now - dt.timedelta(days=7)
     max_dt = now + dt.timedelta(days=540)
-    for item in all_items:
-        if not is_music_event(item["title"]):
+    for item in showstart_items:
+        title = item['title']
+        if not is_music_event(title):
             continue
         try:
-            start = dt.datetime.strptime(item["time_raw"], "%Y/%m/%d %H:%M")
+            start = dt.datetime.strptime(item['time_raw'], '%Y/%m/%d %H:%M')
         except ValueError:
             continue
         if not (min_dt <= start <= max_dt):
             continue
-        item["start"] = start
-        item["end"] = start + dt.timedelta(hours=3)
-        events.append(item)
+        events.append(
+            {
+                'id': f"showstart-{item['id']}",
+                'url': item['url'],
+                'title': title,
+                'city': item['city'],
+                'venue': item['venue'],
+                'start': start,
+                'end': start + dt.timedelta(hours=3),
+                'source': '秀动',
+            }
+        )
 
-    events.sort(key=lambda x: (x["start"], x["city"], x["title"]))
-    return events
+    try:
+        events.extend(gather_maoyan_live_music())
+    except Exception as ex:
+        print(f"WARN failed maoyan live music: {ex}", file=sys.stderr)
+
+    dedup = {}
+    for e in events:
+        if not (min_dt <= e['start'] <= max_dt):
+            continue
+        norm_title = re.sub(r'\s+', '', e['title']).lower()
+        key = (e['start'].strftime('%Y-%m-%d'), norm_title, e['city'])
+        # Prefer 猫眼 if it has more structured venue, otherwise keep first.
+        prev = dedup.get(key)
+        if not prev:
+            dedup[key] = e
+        elif len(e.get('venue', '')) > len(prev.get('venue', '')):
+            dedup[key] = e
+
+    final_events = sorted(dedup.values(), key=lambda x: (x['start'], x['city'], x['title']))
+    return final_events
 
 
 def build_calendar(events, cal_name: str, prod_id: str, mode: str):
@@ -321,7 +467,7 @@ def build_calendar(events, cal_name: str, prod_id: str, mode: str):
             description = (
                 f"城市：{e['city']}\n"
                 f"地点：{e['venue']}\n"
-                f"来源：秀动\n"
+                f"来源：{e.get('source', '聚合')}\n"
                 f"详情：{e['url']}"
             )
             event_lines = [
