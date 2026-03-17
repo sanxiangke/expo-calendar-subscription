@@ -1,0 +1,36 @@
+name: Daily ICS Update
+
+on:
+  schedule:
+    - cron: '15 22 * * *' # UTC 22:15 = Beijing 06:15
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build ICS
+        run: python scripts/build_ics.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/china-expos.ics docs/index.html
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: daily expo calendar update"
+            git push
+          fi
