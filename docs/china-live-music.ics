@@ -1,0 +1,513 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//taizi//China Live Music Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:全国演唱会和音乐节（日更）
+X-WR-TIMEZONE:Asia/Shanghai
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:292437@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260318T100000
+DTEND:20260318T130000
+SUMMARY:谢霆锋演唱会官方快闪首发站
+LOCATION:深圳 · 万象天地水广场
+DESCRIPTION:城市：深圳\n地点：万象天地水广场\n来源：秀
+ 动\n详情：https://www.showstart.com/event/292437
+URL:https://www.showstart.com/event/292437
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:288482@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260318T195000
+DTEND:20260318T225000
+SUMMARY:森罗万象民谣开放麦演唱会
+LOCATION:天津 · 戏梦时空剧场
+DESCRIPTION:城市：天津\n地点：戏梦时空剧场\n来源：秀动
+ \n详情：https://www.showstart.com/event/288482
+URL:https://www.showstart.com/event/288482
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:291776ats2021atlantis@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260320T180000
+DTEND:20260320T210000
+SUMMARY:元气森林ATS音乐节（20-21号）
+LOCATION:合肥 · 元气森林Atlantis
+DESCRIPTION:城市：合肥\n地点：元气森林Atlantis\n来源：秀
+ 动\n详情：https://www.showstart.com/event/291776
+URL:https://www.showstart.com/event/291776
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:290508kpopupcaperland@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260320T190000
+DTEND:20260320T220000
+SUMMARY:KPOP UP千人音乐节-济南站
+LOCATION:济南 · 济南 CaperLand雀跃之地
+DESCRIPTION:城市：济南\n地点：济南 CaperLand雀跃之地\n来
+ 源：秀动\n详情：https://www.showstart.com/event/290508
+URL:https://www.showstart.com/event/290508
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:290985livelivehouse@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260320T193000
+DTEND:20260320T223000
+SUMMARY:《后来·遇见·爱》流行经典金曲live演唱会——厦
+ 门站
+LOCATION:厦门 · 沃克秀LIVEHOUSE_厦门
+DESCRIPTION:城市：厦门\n地点：沃克秀LIVEHOUSE_厦门\n来源
+ ：秀动\n详情：https://www.showstart.com/event/290985
+URL:https://www.showstart.com/event/290985
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:285874beyond@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260320T193000
+DTEND:20260320T223000
+SUMMARY:致敬传奇 海阔天空——纪念beyond经典金曲演唱会
+LOCATION:海口 · 海口湾演艺中心
+DESCRIPTION:城市：海口\n地点：海口湾演艺中心\n来源：秀
+ 动\n详情：https://www.showstart.com/event/285874
+URL:https://www.showstart.com/event/285874
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2896622026@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T130000
+DTEND:20260321T160000
+SUMMARY:2026巅峰·斑马音乐节
+LOCATION:阜阳 · 斑马音乐节草坪
+DESCRIPTION:城市：阜阳\n地点：斑马音乐节草坪\n来源：秀
+ 动\n详情：https://www.showstart.com/event/289662
+URL:https://www.showstart.com/event/289662
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2896492026@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T133000
+DTEND:20260321T163000
+SUMMARY:2026五百里音乐节
+LOCATION:昆明 · 滇池音乐广场
+DESCRIPTION:城市：昆明\n地点：滇池音乐广场\n来源：秀动
+ \n详情：https://www.showstart.com/event/289649
+URL:https://www.showstart.com/event/289649
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:289009intimelive@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T183000
+DTEND:20260321T213000
+SUMMARY:十二回响 · 余枫个人演唱会
+LOCATION:武汉 · 不晚InTimeLive（车里子店）
+DESCRIPTION:城市：武汉\n地点：不晚InTimeLive（车里子店）\
+ n来源：秀动\n详情：https://www.showstart.com/event/289009
+URL:https://www.showstart.com/event/289009
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:289461onion@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T183000
+DTEND:20260321T213000
+SUMMARY:郑州夜魂祭金属音乐节
+LOCATION:郑州 · onion葱头俱乐部
+DESCRIPTION:城市：郑州\n地点：onion葱头俱乐部\n来源：秀
+ 动\n详情：https://www.showstart.com/event/289461
+URL:https://www.showstart.com/event/289461
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2892682026musicpark@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T190000
+DTEND:20260321T220000
+SUMMARY:2026隔壁老樊_樊凯杰「流动」演唱会-上海站
+LOCATION:上海 · 回响之地 Music Park
+DESCRIPTION:城市：上海\n地点：回响之地 Music Park\n来源：
+ 秀动\n详情：https://www.showstart.com/event/289268
+URL:https://www.showstart.com/event/289268
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:290275@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T190000
+DTEND:20260321T220000
+SUMMARY:滨城潜潮，地下王座演唱会-大连站
+LOCATION:大连 · 大连世界博览广场
+DESCRIPTION:城市：大连\n地点：大连世界博览广场\n来源：
+ 秀动\n详情：https://www.showstart.com/event/290275
+URL:https://www.showstart.com/event/290275
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2883112026@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T190000
+DTEND:20260321T220000
+SUMMARY:郑润泽「旷野」2026巡回演唱会 泉州站
+LOCATION:泉州 · 晋江第二体育中心体育馆
+DESCRIPTION:城市：泉州\n地点：晋江第二体育中心体育馆\n
+ 来源：秀动\n详情：https://www.showstart.com/event/288311
+URL:https://www.showstart.com/event/288311
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2903562026live@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T190000
+DTEND:20260321T220000
+SUMMARY:2026美好生活·超级LIVE巡回演唱会 泸州站
+LOCATION:泸州 · 泸州奥体中心体育场
+DESCRIPTION:城市：泸州\n地点：泸州奥体中心体育场\n来源
+ ：秀动\n详情：https://www.showstart.com/event/290356
+URL:https://www.showstart.com/event/290356
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2904012026pact@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T190000
+DTEND:20260321T220000
+SUMMARY:2026PACT派克特【说唱功夫】演唱会-西安站
+LOCATION:西安 · 陕西省体育馆
+DESCRIPTION:城市：西安\n地点：陕西省体育馆\n来源：秀动
+ \n详情：https://www.showstart.com/event/290401
+URL:https://www.showstart.com/event/290401
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:290509kpopupdowntownlive@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T190000
+DTEND:20260321T220000
+SUMMARY:KPOP UP千人音乐节-青岛站
+LOCATION:青岛 · Downtown Live
+DESCRIPTION:城市：青岛\n地点：Downtown Live\n来源：秀动\n详
+ 情：https://www.showstart.com/event/290509
+URL:https://www.showstart.com/event/290509
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:288459@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T193000
+DTEND:20260321T223000
+SUMMARY:四熹丸子（徐化文）[秋风]巡回演唱会-上海站
+LOCATION:上海 · 九棵树未来艺术中心
+DESCRIPTION:城市：上海\n地点：九棵树未来艺术中心\n来源
+ ：秀动\n详情：https://www.showstart.com/event/288459
+URL:https://www.showstart.com/event/288459
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2784872026@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T193000
+DTEND:20260321T223000
+SUMMARY:《我只在乎你》——陈佳2026邓丽君经典金曲专场
+ 演唱会
+LOCATION:厦门 · 厦门沧江剧院
+DESCRIPTION:城市：厦门\n地点：厦门沧江剧院\n来源：秀动
+ \n详情：https://www.showstart.com/event/278487
+URL:https://www.showstart.com/event/278487
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:288289beyond3@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T193000
+DTEND:20260321T223000
+SUMMARY:光辉岁月——致敬 BEYOND 金曲演唱会
+LOCATION:广州 · 平安大戏院-上楼有戏新空间3楼
+DESCRIPTION:城市：广州\n地点：平安大戏院-上楼有戏新空
+ 间3楼\n来源：秀动\n详情：https://www.showstart.com/event/288289
+URL:https://www.showstart.com/event/288289
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:289295live@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T193000
+DTEND:20260321T223000
+SUMMARY:《突然好想你》我们的【歌】流行金曲live现场演
+ 唱会（小剧场）
+LOCATION:杭州 · 杭州临平大剧院
+DESCRIPTION:城市：杭州\n地点：杭州临平大剧院\n来源：秀
+ 动\n详情：https://www.showstart.com/event/289295
+URL:https://www.showstart.com/event/289295
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:289303lovestorytaylorswiftch8livehouse@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T193000
+DTEND:20260321T223000
+SUMMARY:【杭州站】霉霉专场「love story限定」Taylor Swift金
+ 曲演唱会|霉粉狂欢派对夜
+LOCATION:杭州 · CH8-LIVEHOUSE（杭州小河店）
+DESCRIPTION:城市：杭州\n地点：CH8-LIVEHOUSE（杭州小河店）\
+ n来源：秀动\n详情：https://www.showstart.com/event/289303
+URL:https://www.showstart.com/event/289303
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:285875@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T193000
+DTEND:20260321T223000
+SUMMARY:声声不息·宝岛季——华语流行金曲 演唱会
+LOCATION:海口 · 海口湾演艺中心
+DESCRIPTION:城市：海口\n地点：海口湾演艺中心\n来源：秀
+ 动\n详情：https://www.showstart.com/event/285875
+URL:https://www.showstart.com/event/285875
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2899582026@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T193000
+DTEND:20260321T223000
+SUMMARY:徐誉滕“几句青春”2026巡回演唱会·常熟站
+LOCATION:苏州 · 常熟大剧院
+DESCRIPTION:城市：苏州\n地点：常熟大剧院\n来源：秀动\n
+ 详情：https://www.showstart.com/event/289958
+URL:https://www.showstart.com/event/289958
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:292385@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T195000
+DTEND:20260321T225000
+SUMMARY:【戏梦时空剧场】森罗万象天津民谣音乐演唱会
+LOCATION:天津 · 戏梦时空剧场
+DESCRIPTION:城市：天津\n地点：戏梦时空剧场\n来源：秀动
+ \n详情：https://www.showstart.com/event/292385
+URL:https://www.showstart.com/event/292385
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:290302live@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T200000
+DTEND:20260321T230000
+SUMMARY:周子琰个人演唱会
+LOCATION:北京 · 东三LIVE乐游园
+DESCRIPTION:城市：北京\n地点：东三LIVE乐游园\n来源：秀
+ 动\n详情：https://www.showstart.com/event/290302
+URL:https://www.showstart.com/event/290302
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2920112026ddc@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T200000
+DTEND:20260321T230000
+SUMMARY:宋瑀哲「三巡·初心」2026演唱会 特别专场·北京
+LOCATION:北京 · 黄昏黎明DDC
+DESCRIPTION:城市：北京\n地点：黄昏黎明DDC\n来源：秀动\n
+ 详情：https://www.showstart.com/event/292011
+URL:https://www.showstart.com/event/292011
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:292693kpopfmkpopch8livehouse@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T200000
+DTEND:20260321T230000
+SUMMARY:KPOPFM成都站「春日特辑」｜千人KPOP音乐节
+LOCATION:成都 · CH8-LIVEHOUSE（完美店）
+DESCRIPTION:城市：成都\n地点：CH8-LIVEHOUSE（完美店）\n来
+ 源：秀动\n详情：https://www.showstart.com/event/292693
+URL:https://www.showstart.com/event/292693
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:291345@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260321T200000
+DTEND:20260321T230000
+SUMMARY:陈婧霏《红霞影剧院》巡回演唱会- 长沙站
+LOCATION:长沙 · 达丰空间
+DESCRIPTION:城市：长沙\n地点：达丰空间\n来源：秀动\n详
+ 情：https://www.showstart.com/event/291345
+URL:https://www.showstart.com/event/291345
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:291346livemakerlivei33@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260322T193000
+DTEND:20260322T223000
+SUMMARY:《后来·遇见·爱》流行经典金曲LIVE演唱会
+LOCATION:福州 · 唯美客MAKERLIVE（i33）
+DESCRIPTION:城市：福州\n地点：唯美客MAKERLIVE（i33）\n来源
+ ：秀动\n详情：https://www.showstart.com/event/291346
+URL:https://www.showstart.com/event/291346
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2905721039downtownlive@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260322T193000
+DTEND:20260322T223000
+SUMMARY:时光演唱会·华语流行季｜【1039乐队·千人大合唱
+ 】音乐现场
+LOCATION:青岛 · Downtown Live
+DESCRIPTION:城市：青岛\n地点：Downtown Live\n来源：秀动\n详
+ 情：https://www.showstart.com/event/290572
+URL:https://www.showstart.com/event/290572
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:289127maolivehouse@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260322T200000
+DTEND:20260322T230000
+SUMMARY:王诗安《极光》演唱会
+LOCATION:上海 · 上海 MAO Livehouse
+DESCRIPTION:城市：上海\n地点：上海 MAO Livehouse\n来源：秀
+ 动\n详情：https://www.showstart.com/event/289127
+URL:https://www.showstart.com/event/289127
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:291943@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260324T193000
+DTEND:20260324T223000
+SUMMARY:淄博京剧<<光辉照耀天地明>>京剧演唱会
+LOCATION:淄博 · 淄博大剧院
+DESCRIPTION:城市：淄博\n地点：淄博大剧院\n来源：秀动\n
+ 详情：https://www.showstart.com/event/291943
+URL:https://www.showstart.com/event/291943
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:291955taylorm5gaga3thepearl@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260325T203000
+DTEND:20260325T233000
+SUMMARY:Taylor \, M5\, Gaga 风靡全球的千禧神律：3大顶流 强
+ 音联袂 珍珠致敬系列演唱会
+LOCATION:上海 · 珍珠剧场 THE PEARL
+DESCRIPTION:城市：上海\n地点：珍珠剧场 THE PEARL\n来源：
+ 秀动\n详情：https://www.showstart.com/event/291955
+URL:https://www.showstart.com/event/291955
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:291956adeleamywinehousethepearl@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260326T193000
+DTEND:20260326T223000
+SUMMARY:ADELE & AMY WINEHOUSE 阿黛尔 & 艾米·怀恩豪斯 致敬演
+ 唱会
+LOCATION:上海 · 珍珠剧场 THE PEARL
+DESCRIPTION:城市：上海\n地点：珍珠剧场 THE PEARL\n来源：
+ 秀动\n详情：https://www.showstart.com/event/291956
+URL:https://www.showstart.com/event/291956
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:285054@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260327T193000
+DTEND:20260327T223000
+SUMMARY:烟雨蒙蒙·怀旧永恒经典演唱会 宜宾站
+LOCATION:宜宾 · 宜宾酒都剧场
+DESCRIPTION:城市：宜宾\n地点：宜宾酒都剧场\n来源：秀动
+ \n详情：https://www.showstart.com/event/285054
+URL:https://www.showstart.com/event/285054
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:289484live@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260327T193000
+DTEND:20260327T223000
+SUMMARY:《告白气球》这就是【爱】流行金曲live现场演唱
+ 会
+LOCATION:杭州 · 浙江省文化馆小剧场
+DESCRIPTION:城市：杭州\n地点：浙江省文化馆小剧场\n来源
+ ：秀动\n详情：https://www.showstart.com/event/289484
+URL:https://www.showstart.com/event/289484
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:289456wantuspace@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260327T193000
+DTEND:20260327T223000
+SUMMARY:声声不息《周王陶林·金曲情歌演唱会》-湾剧场
+ 【致敬演唱会-非明星演唱会】
+LOCATION:深圳 · WantU Space万有空间
+DESCRIPTION:城市：深圳\n地点：WantU Space万有空间\n来源：
+ 秀动\n详情：https://www.showstart.com/event/289456
+URL:https://www.showstart.com/event/289456
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:271901@taizi
+DTSTAMP:20260317T135819Z
+DTSTART:20260327T194500
+DTEND:20260327T224500
+SUMMARY:老狼《纯真年代》巡回演唱会—— 西安站
+LOCATION:西安 · 陕西大剧院
+DESCRIPTION:城市：西安\n地点：陕西大剧院\n来源：秀动\n
+ 详情：https://www.showstart.com/event/271901
+URL:https://www.showstart.com/event/271901
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

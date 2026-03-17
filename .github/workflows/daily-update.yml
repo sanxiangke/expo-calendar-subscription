@@ -27,7 +27,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/china-expos.ics docs/index.html
+          git add docs/china-expos.ics docs/china-live-music.ics docs/index.html data/expo_detail_cache.json
           if git diff --cached --quiet; then
             echo "No changes"
           else
