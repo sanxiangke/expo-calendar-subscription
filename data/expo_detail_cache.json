@@ -14581,6 +14581,22 @@
     "title": "2026手办模型展",
     "venue": "上海新国际博览中心"
   },
+  "https://www.haozhanhui.com/exh/exh_index_cddmmk.html": {
+    "city": "广州",
+    "description": "好展会网为您提供2026广州国际水产养殖展览会的全程报道,包括2026广州国际水产养殖展览会的时间地点以及评论介绍等；在2026-09-10至2026-09-12 在 广州 中国进出口商品交易会展馆（琶洲展馆）举办,欢迎您参观。",
+    "end_date": "2026-09-12",
+    "start_date": "2026-09-10",
+    "title": "2026广州国际水产养殖展览会",
+    "venue": "中国进出口商品交易会展馆（琶洲展馆）"
+  },
+  "https://www.haozhanhui.com/exh/exh_index_cddmml.html": {
+    "city": "香港",
+    "description": "好展会网为您提供2026第十九届亚洲国际果蔬展览会的全程报道,包括2026第十九届亚洲国际果蔬展览会的时间地点以及评论介绍等；在2026-09-02至2026-09-04 在 香港 亚洲国际博览馆举办,欢迎您参观。",
+    "end_date": "2026-09-04",
+    "start_date": "2026-09-02",
+    "title": "2026第十九届亚洲国际果蔬展览会",
+    "venue": "亚洲国际博览馆"
+  },
   "https://www.haozhanhui.com/exh/exh_index_cddmmm.html": {
     "city": "杭州",
     "description": "好展会网为您提供AI HANGZHOU 2026中国（杭州）国际人工智能展览会的全程报道,包括AI HANGZHOU 2026中国（杭州）国际人工智能展览会的时间地点以及评论介绍等；在2026-08-18至2026-08-20 在 杭州 杭州国际博览中心举办,欢迎您参观。",
@@ -14589,5 +14605,21 @@
     "title": "AI HANGZHOU 2026中国（杭州）国际人工智能展览会",
     "venue": "杭州国际博览中心"
   },
-  "https://www.haozhanhui.com/exh/exh_index_cddmmo.html": {}
+  "https://www.haozhanhui.com/exh/exh_index_cddmmo.html": {},
+  "https://www.haozhanhui.com/exh/exh_index_cddmmp.html": {
+    "city": "南京",
+    "description": "好展会网为您提供2026第115届全国糖酒商品交易会的全程报道,包括2026第115届全国糖酒商品交易会的时间地点以及评论介绍等；在2026-10-15至2026-10-17 在 南京 南京国际博览中心（河西）举办,欢迎您参观。",
+    "end_date": "2026-10-17",
+    "start_date": "2026-10-15",
+    "title": "建议参加 好展会认证展会 2026第115届全国糖酒商品交易会",
+    "venue": "南京国际博览中心（河西）"
+  },
+  "https://www.haozhanhui.com/exh/exh_index_cddmng.html": {
+    "city": "西安",
+    "description": "好展会网为您提供2026第十八届中国西安国际糖酒食品博览会的全程报道,包括2026第十八届中国西安国际糖酒食品博览会的时间地点以及评论介绍等；在2026-09-17至2026-09-19 在 西安 西安国际会展中心举办,欢迎您参观。",
+    "end_date": "2026-09-19",
+    "start_date": "2026-09-17",
+    "title": "建议参加 好展会认证展会 2026第十八届中国西安国际糖酒食品博览会",
+    "venue": "西安国际会展中心"
+  }
 }
