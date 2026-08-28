@@ -8,8 +8,62 @@ X-WR-TIMEZONE:Asia/Shanghai
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
+UID:showstart3074902026@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260828T162000
+DTEND:20260828T192000
+SUMMARY:2026阿那亚·虾米音乐节
+LOCATION:秦皇岛 · 北戴河黄金海岸阿那亚社区
+DESCRIPTION:城市：秦皇岛\n地点：北戴河黄金海岸阿那亚
+ 社区\n来源：秀动\n详情：https://www.showstart.com/event/307490
+URL:https://www.showstart.com/event/307490
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart300288beyond@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260828T193000
+DTEND:20260828T223000
+SUMMARY:光辉岁月·海阔天空 —— 纪念BEYOND金曲演唱会
+LOCATION:北京 · 五棵松·爱乐汇艺术空间·都市剧场
+DESCRIPTION:城市：北京\n地点：五棵松·爱乐汇艺术空间·
+ 都市剧场\n来源：秀动\n详情：https://www.showstart.com/event/3
+ 00288
+URL:https://www.showstart.com/event/300288
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart3007582026@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260828T193000
+DTEND:20260828T223000
+SUMMARY:四熹丸子（徐化文）2026[秋风]巡回演唱会-北京站
+LOCATION:北京 · 北京市华侨城大剧院
+DESCRIPTION:城市：北京\n地点：北京市华侨城大剧院\n来源
+ ：秀动\n详情：https://www.showstart.com/event/300758
+URL:https://www.showstart.com/event/300758
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart289791beyond@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260828T193000
+DTEND:20260828T223000
+SUMMARY:【广州】致敬传奇·光辉岁月 纪念Beyond经典金曲
+ 演唱会
+LOCATION:广州 · 广州中山纪念堂
+DESCRIPTION:城市：广州\n地点：广州中山纪念堂\n来源：秀
+ 动\n详情：https://www.showstart.com/event/289791
+URL:https://www.showstart.com/event/289791
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:maoyan479148@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20260828T200000
 DTEND:20260828T230000
 SUMMARY:售罄 纪念版《时光唱片》
@@ -23,8 +77,89 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:showstart301442@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260828T200000
+DTEND:20260828T230000
+SUMMARY:【中山】《声声不息·宝岛季——华语流行金曲演
+ 唱会》
+LOCATION:中山 · 中山市文化艺术中心
+DESCRIPTION:城市：中山\n地点：中山市文化艺术中心\n来源
+ ：秀动\n详情：https://www.showstart.com/event/301442
+URL:https://www.showstart.com/event/301442
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart305527imaginedragons2000spopthepearl@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260828T210000
+DTEND:20260829T000000
+SUMMARY:IMAGINE DRAGONS&2000sPOP 「梦龙乐队 & 千禧流行天团」
+ 致敬演唱会
+LOCATION:上海 · 珍珠剧场 THE PEARL
+DESCRIPTION:城市：上海\n地点：珍珠剧场 THE PEARL\n来源：
+ 秀动\n详情：https://www.showstart.com/event/305527
+URL:https://www.showstart.com/event/305527
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart3066942026baobao@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260829T160000
+DTEND:20260829T190000
+SUMMARY:【绍兴】2026氧气BAOBAO音乐节
+LOCATION:绍兴 · 嵊州市浦联路与棠溪路交叉口大草坪
+DESCRIPTION:城市：绍兴\n地点：嵊州市浦联路与棠溪路交
+ 叉口大草坪\n来源：秀动\n详情：https://www.showstart.com/even
+ t/306694
+URL:https://www.showstart.com/event/306694
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart307298myrulelivehouse@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260829T163000
+DTEND:20260829T193000
+SUMMARY:戴萌「MYRULE」北京演唱会
+LOCATION:北京 · 福浪LIVEHOUSE-福
+DESCRIPTION:城市：北京\n地点：福浪LIVEHOUSE-福\n来源：秀
+ 动\n详情：https://www.showstart.com/event/307298
+URL:https://www.showstart.com/event/307298
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart3029412026deng@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260829T190000
+DTEND:20260829T220000
+SUMMARY:2026·邓寓君「DENG⁴」巡回演唱会一杭州站
+LOCATION:杭州 · 拱墅运河体育公园体育馆
+DESCRIPTION:城市：杭州\n地点：拱墅运河体育公园体育馆\n
+ 来源：秀动\n详情：https://www.showstart.com/event/302941
+URL:https://www.showstart.com/event/302941
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart3023192026@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260829T190000
+DTEND:20260829T220000
+SUMMARY:陈卓璇2026【当·拾】巡回演唱会-杭州站
+LOCATION:杭州 · 杭州奥体中心网球馆·小莲花
+DESCRIPTION:城市：杭州\n地点：杭州奥体中心网球馆·小莲
+ 花\n来源：秀动\n详情：https://www.showstart.com/event/302319
+URL:https://www.showstart.com/event/302319
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:maoyan49938580newschool@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20260829T193000
 DTEND:20261003T193000
 SUMMARY:「一人一首成名曲」超燃回忆杀丨带爸妈听老歌
@@ -40,8 +175,264 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:showstart298239beyond@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260829T193000
+DTEND:20260829T223000
+SUMMARY:致敬传奇·光辉岁月 纪念Beyond经典金曲演唱会
+LOCATION:惠州 · 惠州文化艺术中心
+DESCRIPTION:城市：惠州\n地点：惠州文化艺术中心\n来源：
+ 秀动\n详情：https://www.showstart.com/event/298239
+URL:https://www.showstart.com/event/298239
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart301493@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260829T193000
+DTEND:20260829T223000
+SUMMARY:“热爱且擅长”金池无锡演唱会
+LOCATION:无锡 · 无锡人民大会堂
+DESCRIPTION:城市：无锡\n地点：无锡人民大会堂\n来源：秀
+ 动\n详情：https://www.showstart.com/event/301493
+URL:https://www.showstart.com/event/301493
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart308533live@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260829T193000
+DTEND:20260829T223000
+SUMMARY:武林夜市必看打卡·吉他弹唱“民谣之夜”live现
+ 场演唱会
+LOCATION:杭州 · 浙江省文化馆小剧场
+DESCRIPTION:城市：杭州\n地点：浙江省文化馆小剧场\n来源
+ ：秀动\n详情：https://www.showstart.com/event/308533
+URL:https://www.showstart.com/event/308533
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart3045182007hopelive@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260829T200000
+DTEND:20260829T230000
+SUMMARY:倒带2007·青春日不落演唱会——一键回到华语乐
+ 坛黄金年代（南宁站）
+LOCATION:南宁 · 候朋现场HOPELIVE（中山路万象汇店）
+DESCRIPTION:城市：南宁\n地点：候朋现场HOPELIVE（中山路万
+ 象汇店）\n来源：秀动\n详情：https://www.showstart.com/event/3
+ 04518
+URL:https://www.showstart.com/event/304518
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart308387@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260829T200000
+DTEND:20260829T230000
+SUMMARY:柠檬制燥·开学-第四届室内重型音乐节
+LOCATION:张家口 · 柠檬酒吧
+DESCRIPTION:城市：张家口\n地点：柠檬酒吧\n来源：秀动\n
+ 详情：https://www.showstart.com/event/308387
+URL:https://www.showstart.com/event/308387
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart2996472026rainbow@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260829T200000
+DTEND:20260829T230000
+SUMMARY:2026 RAiNBOW计划「现在很想见你」演唱会（成都站
+ ）
+LOCATION:成都 · 成都麓湖水上剧场
+DESCRIPTION:城市：成都\n地点：成都麓湖水上剧场\n来源：
+ 秀动\n详情：https://www.showstart.com/event/299647
+URL:https://www.showstart.com/event/299647
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart3008922018intimelive@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260829T200000
+DTEND:20260829T230000
+SUMMARY:【起风了2018】盛夏回响-流行热曲演唱会 | 重回全
+ 网最幸福的那年夏天(武汉站）
+LOCATION:武汉 · 不晚InTimeLive（车里子店）
+DESCRIPTION:城市：武汉\n地点：不晚InTimeLive（车里子店）\
+ n来源：秀动\n详情：https://www.showstart.com/event/300892
+URL:https://www.showstart.com/event/300892
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart3045262026onair@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260829T200000
+DTEND:20260829T230000
+SUMMARY:［三九之年］陈默之2026巡回演唱会-深圳站
+LOCATION:深圳 · ON AIR音乐现场
+DESCRIPTION:城市：深圳\n地点：ON AIR音乐现场\n来源：秀动
+ \n详情：https://www.showstart.com/event/304526
+URL:https://www.showstart.com/event/304526
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart304617happyhappy@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260829T200000
+DTEND:20260829T230000
+SUMMARY:陈洁丽《你happy我也Happy》演唱会 郑州站
+LOCATION:郑州 · 郑州橙空间
+DESCRIPTION:城市：郑州\n地点：郑州橙空间\n来源：秀动\n
+ 详情：https://www.showstart.com/event/304617
+URL:https://www.showstart.com/event/304617
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart304625@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260830T190000
+DTEND:20260830T220000
+SUMMARY:四熹丸子(徐化文)「秋风」巡回演唱会
+LOCATION:哈尔滨 · 哈尔滨大剧院
+DESCRIPTION:城市：哈尔滨\n地点：哈尔滨大剧院\n来源：秀
+ 动\n详情：https://www.showstart.com/event/304625
+URL:https://www.showstart.com/event/304625
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart292849@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260830T193000
+DTEND:20260830T223000
+SUMMARY:【广州】【我只在乎你】陈佳经典金曲专场演唱
+ 会
+LOCATION:广州 · 广州中山纪念堂
+DESCRIPTION:城市：广州\n地点：广州中山纪念堂\n来源：秀
+ 动\n详情：https://www.showstart.com/event/292849
+URL:https://www.showstart.com/event/292849
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart304780@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260830T193000
+DTEND:20260830T223000
+SUMMARY:《声声不息》港台经典杭州演唱会
+LOCATION:杭州 · 浙江省文化馆小剧场
+DESCRIPTION:城市：杭州\n地点：浙江省文化馆小剧场\n来源
+ ：秀动\n详情：https://www.showstart.com/event/304780
+URL:https://www.showstart.com/event/304780
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart299720@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260830T200000
+DTEND:20260830T230000
+SUMMARY:声声不息——港乐经典金曲演唱会
+LOCATION:南宁 · 广西文化艺术中心
+DESCRIPTION:城市：南宁\n地点：广西文化艺术中心\n来源：
+ 秀动\n详情：https://www.showstart.com/event/299720
+URL:https://www.showstart.com/event/299720
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart3052922026vastfactory@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260830T200000
+DTEND:20260830T230000
+SUMMARY:陈婧霏《红霞影剧院》（夏日版）2026巡回演唱会-
+ 沈阳站
+LOCATION:沈阳 · 原料库Vast Factory（红梅店）
+DESCRIPTION:城市：沈阳\n地点：原料库Vast Factory（红梅店
+ ）\n来源：秀动\n详情：https://www.showstart.com/event/305292
+URL:https://www.showstart.com/event/305292
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart2996502026rainbow@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260830T200000
+DTEND:20260830T230000
+SUMMARY:2026 RAiNBOW计划「现在很想见你」演唱会（重庆站
+ ）
+LOCATION:重庆 · 寅派动力
+DESCRIPTION:城市：重庆\n地点：寅派动力\n来源：秀动\n详
+ 情：https://www.showstart.com/event/299650
+URL:https://www.showstart.com/event/299650
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart30463294beyond@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260904T193000
+DTEND:20260904T223000
+SUMMARY:9.4【南平】经典回响追忆家驹Beyond金曲演唱会
+LOCATION:南平 · 建安大街南平大剧院
+DESCRIPTION:城市：南平\n地点：建安大街南平大剧院\n来源
+ ：秀动\n详情：https://www.showstart.com/event/304632
+URL:https://www.showstart.com/event/304632
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart30750740live@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260904T200000
+DTEND:20260904T230000
+SUMMARY:英格威·玛姆斯汀40周年纪念演唱会-北京站
+LOCATION:北京 · 东三LIVE乐游园
+DESCRIPTION:城市：北京\n地点：东三LIVE乐游园\n来源：秀
+ 动\n详情：https://www.showstart.com/event/307507
+URL:https://www.showstart.com/event/307507
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart307096livehouse@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260904T200000
+DTEND:20260904T230000
+SUMMARY:阿吉太《阿衣莫》巡回演唱会广州站
+LOCATION:广州 · 广州 久米空间 Livehouse
+DESCRIPTION:城市：广州\n地点：广州 久米空间 Livehouse\n来
+ 源：秀动\n详情：https://www.showstart.com/event/307096
+URL:https://www.showstart.com/event/307096
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:showstart304401ryanb2026sofunlive@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20260904T200000
+DTEND:20260904T230000
+SUMMARY:永彬Ryan.B「正在播放：猜你喜欢」2026巡回演唱会-
+ 深圳站
+LOCATION:深圳 · SoFun Live深圳
+DESCRIPTION:城市：深圳\n地点：SoFun Live深圳\n来源：秀动\n
+ 详情：https://www.showstart.com/event/304401
+URL:https://www.showstart.com/event/304401
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:maoyan4980862026gairealg@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20260905T190000
 DTEND:20260905T220000
 SUMMARY:2026 GAI周延 「REAL G」巡回演唱会-上海站
@@ -56,7 +447,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan4970662026plus@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20260905T193000
 DTEND:20260905T223000
 SUMMARY:2026周传雄「念念不忘·再遇见plus」巡回演唱会-上
@@ -72,7 +463,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan49890380@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20260906T193000
 DTEND:20261006T193000
 SUMMARY:「时代的旋律」超燃回忆杀丨带爸妈听老歌丨80年
@@ -89,7 +480,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan4991872026eh@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20260912T190000
 DTEND:20260912T220000
 SUMMARY:石凯「时空乐园」2026巡回演唱会-上海站
@@ -104,7 +495,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan498919unknown2026@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20260912T190000
 DTEND:20260912T220000
 SUMMARY:袁一琦UNKNOWN(未知) 2026巡回演唱会-上海站(十周年
@@ -120,7 +511,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan4885692026@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20260919T190000
 DTEND:20260919T220000
 SUMMARY:2026张智霖“在”巡回演唱会-上海站
@@ -135,7 +526,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan490950madloveultra@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20260919T190000
 DTEND:20260919T220000
 SUMMARY:潘玮柏“MADLOVE:ULTRA”巡回演唱会-上海站
@@ -150,7 +541,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan489941reflection@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20260919T193000
 DTEND:20260919T223000
 SUMMARY:Reflection·徐丽东个人音乐会
@@ -164,24 +555,23 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:maoyan502275@taizi
-DTSTAMP:20260827T031805Z
+UID:maoyan5036652026harmonicechoes@taizi
+DTSTAMP:20260828T060804Z
 DTSTART:20260919T193000
 DTEND:20260919T223000
-SUMMARY:《漂洋过海来看你》致敬经典老歌演唱会-一人一
- 首成名曲
-LOCATION:上海 · 创智天地梦剧场
-DESCRIPTION:城市：上海\n地点：创智天地梦剧场\n来源：猫
- 眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=502275&i
- sNewPage=true&fromTag=gwlshare
-URL:https://show.maoyan.com/pages/show/detail/index?id=502275&isNewPage=t
+SUMMARY:新加坡文化节2026--《和鸣》 音乐会 Harmonic Echoes
+LOCATION:上海 · 上海东方艺术中心
+DESCRIPTION:城市：上海\n地点：上海东方艺术中心\n来源：
+ 猫眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=50366
+ 5&isNewPage=true&fromTag=gwlshare
+URL:https://show.maoyan.com/pages/show/detail/index?id=503665&isNewPage=t
  rue&fromTag=gwlshare
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan4987482026@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20260923T193000
 DTEND:20260923T223000
 SUMMARY:2026“爱之传奇”迈克学摇滚演唱会
@@ -196,7 +586,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan492679@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20260925T193000
 DTEND:20260925T223000
 SUMMARY:李荣浩「黑马」世界巡回演唱会-上海站
@@ -211,7 +601,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan498851@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20261002T193000
 DTEND:20261002T223000
 SUMMARY:《传说之下》交响音乐会
@@ -226,7 +616,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan4926491999@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20261003T193000
 DTEND:20261006T193000
 SUMMARY:《重返未来：1999》音乐会 众声漫游夜
@@ -241,7 +631,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan4997462026@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20261010T193000
 DTEND:20261018T193000
 SUMMARY:林忆莲《回响：终章》2026巡回演唱会-上海站
@@ -255,23 +645,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:maoyan502888@taizi
-DTSTAMP:20260827T031805Z
-DTSTART:20261015T193000
-DTEND:20261015T223000
-SUMMARY:《国乐新语—珠海民族管弦乐团融合音乐会》
-LOCATION:上海 · 上海保利大剧院
-DESCRIPTION:城市：上海\n地点：上海保利大剧院\n来源：猫
- 眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=502888&i
- sNewPage=true&fromTag=gwlshare
-URL:https://show.maoyan.com/pages/show/detail/index?id=502888&isNewPage=t
- rue&fromTag=gwlshare
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:maoyan499842hifi20@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20261016T193000
 DTEND:20261016T223000
 SUMMARY:HIFI女王孙露出道20周年·漂洋过海来看你 巡回演
@@ -286,23 +661,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:maoyan502396@taizi
-DTSTAMP:20260827T031805Z
-DTSTART:20261022T193000
-DTEND:20261022T223000
-SUMMARY:“格涅辛之声”俄罗斯合唱作品音乐会
-LOCATION:上海 · 光新无限演艺中心
-DESCRIPTION:城市：上海\n地点：光新无限演艺中心\n来源：
- 猫眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=50239
- 6&isNewPage=true&fromTag=gwlshare
-URL:https://show.maoyan.com/pages/show/detail/index?id=502396&isNewPage=t
- rue&fromTag=gwlshare
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:maoyan5019245202620@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20261025T193000
 DTEND:20261025T223000
 SUMMARY:【限时5折】2026《再回首2.0》致敬经典老歌演唱会
@@ -317,8 +677,25 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:maoyan502944amplified@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20261025T193000
+DTEND:20261025T223000
+SUMMARY:第二十五届中国上海国际艺术节参演节目   青春
+ 宝、胡庆余堂 真情呈现  朱宗庆打击乐团音乐会《加乘
+ 效应 AMPLIFIED+》
+LOCATION:上海 · 捷豹上海交响音乐厅
+DESCRIPTION:城市：上海\n地点：捷豹上海交响音乐厅\n来源
+ ：猫眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=50
+ 2944&isNewPage=true&fromTag=gwlshare
+URL:https://show.maoyan.com/pages/show/detail/index?id=502944&isNewPage=t
+ rue&fromTag=gwlshare
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:maoyan503150@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20261030T193000
 DTEND:20261030T223000
 SUMMARY:《国乐咏中华》上海民族乐团音乐会
@@ -333,7 +710,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan5017152026tiaraysoulciety31@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20261031T193000
 DTEND:20261031T223000
 SUMMARY:2026爵士上海 袁娅维TIA RAY SOUL-CIETY专场音乐会
@@ -348,7 +725,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan486937charlieputhwhateverscleverworldtour@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20261031T193000
 DTEND:20261031T223000
 SUMMARY:Charlie Puth: Whatever's Clever! World Tour 上海站
@@ -362,23 +739,8 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:maoyan502899@taizi
-DTSTAMP:20260827T031805Z
-DTSTART:20261031T193000
-DTEND:20261031T223000
-SUMMARY:《亚尼克·瑞约“爵士勃拉姆斯”四重奏音乐会》
-LOCATION:上海 · 上海保利大剧院
-DESCRIPTION:城市：上海\n地点：上海保利大剧院\n来源：猫
- 眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=502899&i
- sNewPage=true&fromTag=gwlshare
-URL:https://show.maoyan.com/pages/show/detail/index?id=502899&isNewPage=t
- rue&fromTag=gwlshare
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 UID:maoyan5026042026@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20261031T193000
 DTEND:20261031T223000
 SUMMARY:伊莲《我的名字叫伊莲》法国香颂天后2026演唱会
@@ -392,23 +754,56 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:maoyan502333@taizi
-DTSTAMP:20260827T031805Z
-DTSTART:20261115T150000
-DTEND:20261115T180000
-SUMMARY:《最后的莫西干人》——旷野之旅
-LOCATION:上海 · 北外滩友邦大剧院
-DESCRIPTION:城市：上海\n地点：北外滩友邦大剧院\n来源：
- 猫眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=50233
- 3&isNewPage=true&fromTag=gwlshare
-URL:https://show.maoyan.com/pages/show/detail/index?id=502333&isNewPage=t
+UID:maoyan5036392026@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20261109T193000
+DTEND:20261109T223000
+SUMMARY:瓦西里∙佩特连科与英国皇家爱乐乐团2026上海音
+ 乐会
+LOCATION:上海 · 上海东方艺术中心
+DESCRIPTION:城市：上海\n地点：上海东方艺术中心\n来源：
+ 猫眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=50363
+ 9&isNewPage=true&fromTag=gwlshare
+URL:https://show.maoyan.com/pages/show/detail/index?id=503639&isNewPage=t
+ rue&fromTag=gwlshare
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maoyan503641@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20261114T193000
+DTEND:20261114T223000
+SUMMARY:厦门爱歌室内合唱团专场音乐会『万物有声』巡
+ 演上海站
+LOCATION:上海 · 上海东方艺术中心
+DESCRIPTION:城市：上海\n地点：上海东方艺术中心\n来源：
+ 猫眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=50364
+ 1&isNewPage=true&fromTag=gwlshare
+URL:https://show.maoyan.com/pages/show/detail/index?id=503641&isNewPage=t
+ rue&fromTag=gwlshare
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maoyan5035082031@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20261122T193000
+DTEND:20261122T223000
+SUMMARY:「声而不凡」一维塔斯20年巡回演唱会纪念特别版
+ ——上海站
+LOCATION:上海 · 交通银行前滩31演艺中心
+DESCRIPTION:城市：上海\n地点：交通银行前滩31演艺中心\n
+ 来源：猫眼\n详情：https://show.maoyan.com/pages/show/detail/index
+ ?id=503508&isNewPage=true&fromTag=gwlshare
+URL:https://show.maoyan.com/pages/show/detail/index?id=503508&isNewPage=t
  rue&fromTag=gwlshare
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan501217@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20261128T193000
 DTEND:20261128T223000
 SUMMARY:谭维维《声声世世》风起八方
@@ -422,24 +817,56 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:maoyan502293@taizi
-DTSTAMP:20260827T031805Z
-DTSTART:20261128T194500
-DTEND:20261128T224500
-SUMMARY:海上雅乐·琶音诗话——李晖与琵琶舞室内乐音乐
- 会
+UID:maoyan503357@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20261202T193000
+DTEND:20261202T223000
+SUMMARY:皮奥特·安德谢夫斯基钢琴独奏会丨上海交响乐团
+ 音乐季
+LOCATION:上海 · 捷豹上海交响音乐厅
+DESCRIPTION:城市：上海\n地点：捷豹上海交响音乐厅\n来源
+ ：猫眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=50
+ 3357&isNewPage=true&fromTag=gwlshare
+URL:https://show.maoyan.com/pages/show/detail/index?id=503357&isNewPage=t
+ rue&fromTag=gwlshare
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maoyan503549@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20261211T194500
+DTEND:20261211T224500
+SUMMARY:未来大师：对话金奖——琥珀四重奏与王丽雅音
+ 乐会
 LOCATION:上海 · 上海东方艺术中心
 DESCRIPTION:城市：上海\n地点：上海东方艺术中心\n来源：
- 猫眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=50229
- 3&isNewPage=true&fromTag=gwlshare
-URL:https://show.maoyan.com/pages/show/detail/index?id=502293&isNewPage=t
+ 猫眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=50354
+ 9&isNewPage=true&fromTag=gwlshare
+URL:https://show.maoyan.com/pages/show/detail/index?id=503549&isNewPage=t
+ rue&fromTag=gwlshare
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:maoyan503550@taizi
+DTSTAMP:20260828T060804Z
+DTSTART:20261213T194500
+DTEND:20261213T224500
+SUMMARY:未来大师：心的形状——竖琴与萨克斯二重奏音
+ 乐会
+LOCATION:上海 · 上海东方艺术中心
+DESCRIPTION:城市：上海\n地点：上海东方艺术中心\n来源：
+ 猫眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=50355
+ 0&isNewPage=true&fromTag=gwlshare
+URL:https://show.maoyan.com/pages/show/detail/index?id=503550&isNewPage=t
  rue&fromTag=gwlshare
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:maoyan486961@taizi
-DTSTAMP:20260827T031805Z
+DTSTAMP:20260828T060804Z
 DTSTART:20261225T193000
 DTEND:20261225T223000
 SUMMARY:维也纳皇家爱乐乐团新年音乐会
@@ -449,37 +876,6 @@ DESCRIPTION:城市：上海\n地点：上海东方艺术中心\n来源：
  1&isNewPage=true&fromTag=gwlshare
 URL:https://show.maoyan.com/pages/show/detail/index?id=486961&isNewPage=t
  rue&fromTag=gwlshare
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:maoyan498706beyond33@taizi
-DTSTAMP:20260827T031805Z
-DTSTART:20261227T193000
-DTEND:20261227T223000
-SUMMARY:[新年专场]“真的爱你”致敬BEYOND·黄家驹33周年
- 新年演唱会
-LOCATION:上海 · 保利上海城市剧院
-DESCRIPTION:城市：上海\n地点：保利上海城市剧院\n来源：
- 猫眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=49870
- 6&isNewPage=true&fromTag=gwlshare
-URL:https://show.maoyan.com/pages/show/detail/index?id=498706&isNewPage=t
- rue&fromTag=gwlshare
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:maoyan502612720271231@taizi
-DTSTAMP:20260827T031805Z
-DTSTART:20261231T193000
-DTEND:20261231T223000
-SUMMARY:【早鸟7折】2027上海新年跨年音乐会·12月31日专场
-LOCATION:上海 · 黄浦剧场·中剧场
-DESCRIPTION:城市：上海\n地点：黄浦剧场·中剧场\n来源：
- 猫眼\n详情：https://show.maoyan.com/pages/show/detail/index?id=50261
- 2&isNewPage=false&fromTag=gwlshare
-URL:https://show.maoyan.com/pages/show/detail/index?id=502612&isNewPage=f
- alse&fromTag=gwlshare
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
