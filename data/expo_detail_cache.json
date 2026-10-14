@@ -23783,5 +23783,30 @@
     "start_date": "2027-03-25",
     "title": "2027第73届沈阳医疗器械展览会",
     "venue": "沈阳国际展览中心"
+  },
+  "https://www.haozhanhui.com/exh/exh_index_cdfgfk.html": {
+    "city": "广州",
+    "description": "好展会网为您提供BLFAasia2027广州国际创新酒及低度潮酒展的全程报道,包括BLFAasia2027广州国际创新酒及低度潮酒展的时间地点以及评论介绍等；在2027-06-24至2027-06-26 在 广州 中国进出口商品交易会展馆（琶洲展馆）举办,欢迎您参观。",
+    "end_date": "2027-06-26",
+    "start_date": "2027-06-24",
+    "title": "BLFAasia2027广州国际创新酒及低度潮酒展",
+    "venue": "中国进出口商品交易会展馆（琶洲展馆）"
+  },
+  "https://www.haozhanhui.com/exh/exh_index_cdfgfl.html": {},
+  "https://www.haozhanhui.com/exh/exh_index_cdfgfm.html": {
+    "city": "广州",
+    "description": "好展会网为您提供BLFAasia2027广州国际酒饮料制造设备及技术展的全程报道,包括BLFAasia2027广州国际酒饮料制造设备及技术展的时间地点以及评论介绍等；在2027-06-24至2027-06-26 在 广州 中国进出口商品交易会展馆（琶洲展馆）举办,欢迎您参观。",
+    "end_date": "2027-06-26",
+    "start_date": "2027-06-24",
+    "title": "BLFAasia2027广州国际酒饮料制造设备及技术展",
+    "venue": "中国进出口商品交易会展馆（琶洲展馆）"
+  },
+  "https://www.haozhanhui.com/exh/exh_index_cdfgfn.html": {
+    "city": "北京",
+    "description": "好展会网为您提供2027机器视觉助力智能制造创新发展大会（北京）的全程报道,包括2027机器视觉助力智能制造创新发展大会（北京）的时间地点以及评论介绍等；在2027-06-17至2027-06-18 在 北京 北京国际会议中心举办,欢迎您参观。",
+    "end_date": "2027-06-18",
+    "start_date": "2027-06-17",
+    "title": "2027机器视觉助力智能制造创新发展大会（北京）",
+    "venue": "北京国际会议中心"
   }
 }
