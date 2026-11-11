@@ -24862,6 +24862,23 @@
   },
   "https://www.haozhanhui.com/exh/exh_index_cdfhlk.html": {},
   "https://www.haozhanhui.com/exh/exh_index_cdfhll.html": {},
+  "https://www.haozhanhui.com/exh/exh_index_cdfhln.html": {
+    "city": "珠海",
+    "description": "好展会网为您提供2026第十六届中国国际航空航天博览会的全程报道,包括2026第十六届中国国际航空航天博览会的时间地点以及评论介绍等；在2026-12-07至2026-12-13 在 珠海 珠海国际航展中心举办,欢迎您参观。",
+    "end_date": "2026-12-13",
+    "start_date": "2026-12-07",
+    "title": "建议参加 好展会认证展会 2026第十六届中国国际航空航天博览会",
+    "venue": "珠海国际航展中心"
+  },
+  "https://www.haozhanhui.com/exh/exh_index_cdfhlo.html": {
+    "city": "广州",
+    "description": "好展会网为您提供2027第11届广州国际医用耗材与卫生材料展的全程报道,包括2027第11届广州国际医用耗材与卫生材料展的时间地点以及评论介绍等；在2027-07-17至2027-07-19 在 广州 广州空港博览中心举办,欢迎您参观。",
+    "end_date": "2027-07-19",
+    "start_date": "2027-07-17",
+    "title": "2027第11届广州国际医用耗材与卫生材料展",
+    "venue": "广州空港博览中心"
+  },
+  "https://www.haozhanhui.com/exh/exh_index_cdfhlp.html": {},
   "https://www.haozhanhui.com/exh/exh_index_cdfhmh.html": {},
   "https://www.haozhanhui.com/exh/exh_index_cdfhmi.html": {},
   "https://www.haozhanhui.com/exh/exh_index_cdfhmj.html": {
@@ -24890,5 +24907,29 @@
     "start_date": "2027-08-11",
     "title": "2027第35届中国国际测量控制与仪器仪表展览会",
     "venue": "武汉国际博览中心"
+  },
+  "https://www.haozhanhui.com/exh/exh_index_cdfhmp.html": {
+    "city": "长沙",
+    "description": "好展会网为您提供2027第19届中部（长沙）建材新产品招商暨全屋定制博览会的全程报道,包括2027第19届中部（长沙）建材新产品招商暨全屋定制博览会的时间地点以及评论介绍等；在2027-03-20至2027-03-22 在 长沙 长沙国际会展中心举办,欢迎您参观。",
+    "end_date": "2027-03-22",
+    "start_date": "2027-03-20",
+    "title": "2027第19届中部（长沙）建材新产品招商暨全屋定制博览会",
+    "venue": "长沙国际会展中心"
+  },
+  "https://www.haozhanhui.com/exh/exh_index_cdfhng.html": {
+    "city": "郑州",
+    "description": "好展会网为您提供2027中国(郑州)智能建造与城市更新博览会的全程报道,包括2027中国(郑州)智能建造与城市更新博览会的时间地点以及评论介绍等；在2027-03-25至2027-03-27 在 郑州 郑州国际会展中心举办,欢迎您参观。",
+    "end_date": "2027-03-27",
+    "start_date": "2027-03-25",
+    "title": "2027中国(郑州)智能建造与城市更新博览会",
+    "venue": "郑州国际会展中心"
+  },
+  "https://www.haozhanhui.com/exh/exh_index_cdfhnh.html": {
+    "city": "深圳",
+    "description": "好展会网为您提供DPLA 2027深圳数码印刷与标签标识应用展的全程报道,包括DPLA 2027深圳数码印刷与标签标识应用展的时间地点以及评论介绍等；在2027-09-01至2027-09-03 在 深圳 深圳国际会展中心（宝安新馆）举办,欢迎您参观。",
+    "end_date": "2027-09-03",
+    "start_date": "2027-09-01",
+    "title": "建议参加 好展会认证展会 DPLA 2027深圳数码印刷与标签标识应用展",
+    "venue": "深圳国际会展中心（宝安新馆）"
   }
 }
