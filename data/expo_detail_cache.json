@@ -25998,5 +25998,21 @@
     "title": "建议参加 好展会认证展会 2027第56届中国国际医疗器械（山东）博览会（春）",
     "venue": "山东国际会展中心"
   },
-  "https://www.haozhanhui.com/exh/exh_index_cdfjjl.html": {}
+  "https://www.haozhanhui.com/exh/exh_index_cdfjjl.html": {},
+  "https://www.haozhanhui.com/exh/exh_index_cdfjjm.html": {
+    "city": "喀什",
+    "description": "好展会网为您提供2027喀什医疗器械暨医药大健康博览会的全程报道,包括2027喀什医疗器械暨医药大健康博览会的时间地点以及评论介绍等；在2027-05-21至2027-05-23 在 喀什 新疆喀什国际会展中心举办,欢迎您参观。",
+    "end_date": "2027-05-23",
+    "start_date": "2027-05-21",
+    "title": "2027喀什医疗器械暨医药大健康博览会",
+    "venue": "新疆喀什国际会展中心"
+  },
+  "https://www.haozhanhui.com/exh/exh_index_cdfjjn.html": {
+    "city": "乌鲁木齐",
+    "description": "好展会网为您提供2027新疆医疗器械暨医药大健康博览会的全程报道,包括2027新疆医疗器械暨医药大健康博览会的时间地点以及评论介绍等；在2027-09-02至2027-09-04 在 乌鲁木齐 新疆国际会展中心举办,欢迎您参观。",
+    "end_date": "2027-09-04",
+    "start_date": "2027-09-02",
+    "title": "2027新疆医疗器械暨医药大健康博览会",
+    "venue": "新疆国际会展中心"
+  }
 }
